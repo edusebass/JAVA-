@@ -1,4 +1,4 @@
-//BASIC STRUCTURE JAVA
+//                 BASIC STRUCTURE JAVA
 
 class Main { //Java always with "class", you can call to class as you want.
   public static void main(String[] args) { //Java works with function main
