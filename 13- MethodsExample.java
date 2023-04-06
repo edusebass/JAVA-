@@ -1,5 +1,5 @@
 public class SavingsAccount {
-  
+  //class principal
   int balance;
   
   public SavingsAccount(int initialBalance){
