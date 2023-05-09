@@ -25,6 +25,14 @@ public class Addition {
         System.out.printf("La resta es: %d%n", res);
         System.out.printf("La multiplicación es: %d%n", multi);
         System.out.printf("La division es: %d%n", divi);
+        
+        //////////////////////////////////////////////////////////////EXERCISE CICLO FOR
+        //MOSTRAR EN PANTALLA TODOS LOS NUMEROS HASTA EL LIMITE QUE PONGA EN N
+        System.out.print("Enter n: ");
+        int n = input.nextInt();
 
+        for (int i = 1; i <= n; i++) {
+            System.out.println(i);
+        }
     }
 }
