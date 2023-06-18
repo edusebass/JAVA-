@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e57dc354-8ca2-46d4-b999-05975d7fb42f" name="Changes" comment="" />
+    <list default="true" id="e57dc354-8ca2-46d4-b999-05975d7fb42f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../objetosInstancias/src/Futbolista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../objetosInstancias/src/Futbolista.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +66,7 @@
       <workItem from="1684363960010" duration="618000" />
       <workItem from="1684676150388" duration="8000" />
       <workItem from="1684990136095" duration="312000" />
+      <workItem from="1685406722382" duration="4000" />
     </task>
     <servers />
   </component>

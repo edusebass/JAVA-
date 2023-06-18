@@ -5,12 +5,12 @@ public class Futbolista {
     String pais;
 
     //constructor
+
     public Futbolista(String equipo, int dorsal, String pais) {
         this.equipo = equipo;
         this.dorsal = dorsal;
         this.pais = pais;
     }
-
 
     //getters and setters
     public String getEquipo() {
